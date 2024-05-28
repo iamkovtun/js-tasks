@@ -29,4 +29,5 @@ function findNumbers(numbers, sum) {
     }
 }
 
-console.log(findNumbers(myeNumbers, sum))
+console.log(findNumbers(myeNumbers, sum))//[ 11, -1 ]
+

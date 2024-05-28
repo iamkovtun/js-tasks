@@ -34,4 +34,10 @@ const studentsGrouped = {}
     
   }
 
-console.log(studentsGrouped)
+console.log(studentsGrouped) 
+
+/*{
+  '18': [ { name: 'stas', age: 18 } ],
+  '20': [ { name: 'alex', age: 20 }, { name: 'masha', age: 20 } ],
+  '24': [ { name: 'mike', age: 24 } ]
+}**/

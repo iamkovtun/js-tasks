@@ -24,4 +24,4 @@ for (friend of friends) {
     allPizzas.push(...friend.pizzas)
   }
 
-console.log(allPizzas)
+console.log(allPizzas)// [ 'cheese', 'pepperoni', 'salami', 'margarita', 'meat', 'fish' ]

@@ -8,4 +8,4 @@ const fruits = ['kiwi', 'apple', 'kiwi', 'orange', 'kiwi', 'apple'];
 
 uniqValues = [...new Set(fruits)]
 
-console.log(uniqValues)
+console.log(uniqValues) //[ 'kiwi', 'apple', 'orange' ]

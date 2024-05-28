@@ -13,4 +13,4 @@ const counterValues = {}
 fruits.forEach(function(fruit) {
     counterValues[fruit] = (counterValues[fruit] || 0) + 1
 })
-console.log(counterValues)
+console.log(counterValues) // { kiwi: 3, apple: 2, orange: 1 }
